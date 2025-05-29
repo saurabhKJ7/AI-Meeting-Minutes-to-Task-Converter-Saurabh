@@ -1,6 +1,6 @@
-# Enterprise Task Manager
+# AI Meeting Minutes to Task Converter
 
-A sophisticated task management application that converts natural language into structured tasks with AI-powered parsing. Built with modern web technologies for optimal performance and user experience.
+A powerful application that converts meeting minutes and conversations into structured tasks using AI-powered parsing. Automatically extracts action items, assignees, due dates, and priorities from your meeting notes.
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ A sophisticated task management application that converts natural language into 
 
 ## Video Demo
 
-<video controls src="Screen Recording 2025-05-29 at 11.41.42 PM.mov" title="Title"></video>
+https://github.com/saurabhKJ7/AI-Meeting-Minutes-to-Task-Converter-Saurabh/assets/your-username/screen-recording-2025-05-29
 
 ## 📋 Example Usage
 
