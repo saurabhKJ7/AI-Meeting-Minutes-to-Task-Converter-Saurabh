@@ -20,7 +20,7 @@ A powerful application that converts meeting minutes and conversations into stru
 
 ## Video Demo
 
-https://github.com/saurabhKJ7/AI-Meeting-Minutes-to-Task-Converter-Saurabh/assets/your-username/screen-recording-2025-05-29
+https://github.com/saurabhKJ7/AI-Meeting-Minutes-to-Task-Converter-Saurabh/assets/saurabhKJ7/screen-recording-2025-05-29
 
 ## 📋 Example Usage
 
