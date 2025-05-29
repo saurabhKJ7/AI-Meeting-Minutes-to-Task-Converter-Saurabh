@@ -23,11 +23,6 @@ A powerful application that converts meeting minutes and conversations into stru
 ### Option 1: Watch Directly
 [![Demo Video](https://img.icons8.com/color/96/000000/video.png)](https://github.com/saurabhKJ7/AI-Meeting-Minutes-to-Task-Converter-Saurabh/raw/main/assets/videos/demo.mov)
 
-### Option 2: Embedded Player
-<video src="assets/videos/demo.mov" controls width="640" height="360">
-  Your browser does not support the video tag.
-  You can download the video <a href="assets/videos/demo.mov">here</a> instead.
-</video>
 
 ## 📋 Example Usage
 
